@@ -30,7 +30,7 @@ To run the specs follow these commands:
 - first install the required node modules to run the tests
 ````npm install````
 - to run in the command line run
-````npm test -- spec/isAVowel-spec.js````
+````npm test -- spec/isAVowel.spec.js````
 ### or, via the custom script in package.json
 ````npm run answer````
 
