@@ -1,0 +1,12 @@
+{
+  "name": "js-vowels-lagcc-001",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "test":   "jasmine",                         
+    "answer": "jasmine spec/isAVowel.spec.js"   
+  },
+  "devDependencies": {
+    "jasmine": "^5.0.0"
+  }
+}
