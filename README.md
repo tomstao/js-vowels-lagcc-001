@@ -26,6 +26,15 @@ isAVowel("x")
 // => false
 ```
 
+To run the specs follow these commands:
+- first install the required node modules to run the tests
+````npm install````
+- to run in the command line run
+````npm test -- spec/isAVowel-spec.js````
+### or, via the custom script in package.json
+````npm run answer````
+
+
 ## Instructions
 
 Run the test suite to get started. Remember that JavaScript will return `undefined` unless you explicitly tell it to return something.
